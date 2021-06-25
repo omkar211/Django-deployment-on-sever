@@ -23,7 +23,7 @@ ONLY FOR LINUX DISTRIBUTIONS<br/>
 2. Install the Virtual Environment using 2.1 command <br/>
    2.1 `pip install virtualenv`
 3. Create Virtual Environment using 3.1 command <br/>
-   3.1 `python -m env env_name`
+   3.1 `python -m virtualenv env_name`
 4. Generate the SSH key using 4.2 command <br/>
    4.1 Generate it .so host can communicate with another host and share resources.<br/>
    4.2 `ssh-keygen`<br/>
